@@ -1,3 +1,15 @@
-flight-crash-analysis link=file:///C:/Users/hema/Downloads/Regna/Regna/index.html#about
-ghit hub link=file:///C:/Users/hema/Desktop/New%20folder/Flight%20crash%20analysis%20html.html
-video demonstration link=https://github.com/Srini1l/flight-crash-analysis/tree/main/Video%20demonstration
+story link:
+https://public.tableau.com/views/book1_16811196661700/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+
+
+
+dashboard link:
+https://public.tableau.com/views/book1_16811196661700/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/book1_16811196661700/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+
+
+Video demonstration link: 
